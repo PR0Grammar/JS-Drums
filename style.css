@@ -1,14 +1,6 @@
 html {
      font-size: 10px;
-     background-color: #fff;
-     animation: random 5s infinite;
-}
-@keyframes  random {
-    15% { background-color: #FFA756; }
-    30% { background-color: #D0FF56; }
-    45% { background-color: #D84FE8; }
-    60% { background-color: #FFFC56; }
-    75% { background-color: white; }
+     background-color: #ffffff;
 }
 body,html {
   margin: 0;
